@@ -1,0 +1,9 @@
+
+.student{
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+  padding: 5px;
+  max-width: 50%;
+  background-color: hsla(240, 2%, 31%, 0.548);
+}
